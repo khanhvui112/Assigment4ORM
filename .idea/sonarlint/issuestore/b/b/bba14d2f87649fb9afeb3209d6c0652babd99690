@@ -1,0 +1,6 @@
+
+q	java:S116-"WRename this field "candidate_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¦ñ‰øÿÿÿÿ
+W	java:S1079"BConstructor has 11 parameters, which is greater than 7 authorized.(ŠÇµõ
+\	java:S107G"BConstructor has 10 parameters, which is greater than 7 authorized.(ÒâÍ‰üÿÿÿÿ
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÇµõ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒâÍ‰üÿÿÿÿ

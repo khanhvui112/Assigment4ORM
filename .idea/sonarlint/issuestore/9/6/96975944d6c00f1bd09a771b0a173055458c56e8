@@ -1,0 +1,4 @@
+
+J
+java:S1128"4Remove this unused import 'org.hibernate.Hibernate'.(óñ‹è
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îî²F

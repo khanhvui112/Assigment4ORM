@@ -1,0 +1,14 @@
+
+E
+java:S3740U"/Provide the parametrized type for this generic.(¡¥ë¢
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(™›öü
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ìÎ›Ğøÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ôùÓ’ùÿÿÿÿ
+B
+java:S1168™"+Return an empty collection instead of null.(¥¹ï
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+\
+java:S1192("FDefine a constant instead of duplicating this literal "skill" 3 times.(©‘¨À
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÿĞº
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îî²F
